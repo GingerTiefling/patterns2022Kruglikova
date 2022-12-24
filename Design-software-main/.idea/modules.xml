@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-software-main.iml" filepath="$PROJECT_DIR$/.idea/Design-software-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/лаб1_кругликова/лаб1_кругликова.iml" filepath="$PROJECT_DIR$/лаб1_кругликова/лаб1_кругликова.iml" />
+      <module fileurl="file://$PROJECT_DIR$/лаб2_кругликова/лаб2_кругликова.iml" filepath="$PROJECT_DIR$/лаб2_кругликова/лаб2_кругликова.iml" />
+      <module fileurl="file://$PROJECT_DIR$/лаб3_кругликова/лаб3_кругликова.iml" filepath="$PROJECT_DIR$/лаб3_кругликова/лаб3_кругликова.iml" />
+      <module fileurl="file://$PROJECT_DIR$/лаб4_кругликова/лаб4_кругликова.iml" filepath="$PROJECT_DIR$/лаб4_кругликова/лаб4_кругликова.iml" />
+      <module fileurl="file://$PROJECT_DIR$/лаб5_кругликова/лаб5_кругликова.iml" filepath="$PROJECT_DIR$/лаб5_кругликова/лаб5_кругликова.iml" />
+    </modules>
+  </component>
+</project>
